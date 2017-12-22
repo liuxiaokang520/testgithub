@@ -29,3 +29,5 @@ MarkdownPad supports multiple Markdown processing engines, including standard Ma
 With a tabbed document interface, PDF export, a built-in image uploader, session management, spell check, auto-save, syntax highlighting and a built-in CSS management interface, there's no limit to what you can do with MarkdownPad.
 
 ### 不修改代码,先改文本文件试试手
+
+### 还是试手.
